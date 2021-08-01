@@ -4,7 +4,7 @@ Discord Bot :
 
 Description : 
 
-Coded in JavaScript, Discord Bot is basically a bot that can be added to a discord server and by providing queries, it can execute those commands such as greeting the user, playing any song and stopping the song. A handy !i command is also provided that gives a list of all queries that are commands that the bot responds to.
+Coded in JavaScript, Discord Bot is a bot that can be added to a discord server and by providing queries, it can execute commands such as greeting the user, playing any song and stopping the song. A handy !i command is also provided that gives a list of all queries that are commands that the bot responds to.
 
 Development : 
 
