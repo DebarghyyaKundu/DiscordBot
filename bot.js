@@ -35,11 +35,6 @@ client.on('message', message =>{
     if(command === 'i'){
         client.commands.get('instructions').execute(message, args, Discord);
     }
-
-
-    // if(command === 'clear'){
-    //     client.commands.get('clear').execute(message, args);
-    // }
     
     // Play Command
     if(command === 'p'){
